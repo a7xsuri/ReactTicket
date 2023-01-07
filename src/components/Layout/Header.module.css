@@ -1,0 +1,13 @@
+.btn{
+    padding: 10px;
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+}
+
+.header{
+    background-color: blue;
+    display: flex;
+    flex-flow: row-reverse;
+    padding: 10px;
+}
